@@ -12,5 +12,5 @@ async function buscarCidade() {
   document.getElementById("icone").src = `https://openweathermap.org/img/wn/${dados.weather[0].icon}.png`;
   document.getElementById("umidade").innerText = `Umidade: ${dados.main.humidity}%`;
 
-  document.body.style.backgroundImage = `url(https://source.unsplash.com/1600x900/?paradise&${Math.random()})`;
+  document.body.style.backgroundImage = `url(https://source.unsplash.com/1600x900/?cities&${Math.random()})`;
 }
