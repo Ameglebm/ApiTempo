@@ -1,2 +1,3 @@
 # ApiTempo
-Api para verificar o tempo em algumas localidades
+Api para verificar o tempo em algumas localidades no mundo
+
